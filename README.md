@@ -3,11 +3,9 @@
 
 # Xylophone 🎹
 
-This project is a part of Angela Yu's Flutter course on Udemy.
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-## What you will create
-
-We’re going to make a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are. 
+I have made a music app that plays Xylophone sounds. 
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
 
@@ -18,7 +16,3 @@ We’re going to make a music app that plays Xylophone sounds. For every Beethov
 - How to generate repeated user interface Widgets.
 - How to use Dart functions that can take input arguments as well as return an output.
 - Dart arrow syntax for writing one line functions.
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
